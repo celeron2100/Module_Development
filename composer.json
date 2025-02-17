@@ -1,0 +1,28 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendUser"
+        },
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendReserves"
+        },
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendExportPDF"
+        },
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendDispatchs"
+        },
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendCars"
+        },
+        {
+            "type": "path",
+            "url": "../celeron2100/Modules/FrontendBusDriver"
+        }
+    ]
+}
