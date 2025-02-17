@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Module_Development\\FrontendCars\\": ""
+            "FrontendCars\\": ""
         }
     },
     "repositories": [
