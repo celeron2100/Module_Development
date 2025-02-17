@@ -1,6 +1,7 @@
 {
     "name": "celeron2100/frontenddispatchs",
     "description": "",
+    "type": "library",
     "authors": [
         {
             "name": "Justin C.",
