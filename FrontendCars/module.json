@@ -1,0 +1,13 @@
+{
+    "name": "FrontendCars",
+    "alias": "frontendcars",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendCars\\Providers\\FrontendCarsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

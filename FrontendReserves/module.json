@@ -1,0 +1,13 @@
+{
+    "name": "FrontendReserves",
+    "alias": "frontendreserves",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendReserves\\Providers\\FrontendReservesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

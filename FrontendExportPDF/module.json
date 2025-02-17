@@ -1,0 +1,13 @@
+{
+    "name": "FrontendExportPDF",
+    "alias": "frontendexportpdf",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendExportPDF\\Providers\\FrontendExportPDFServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

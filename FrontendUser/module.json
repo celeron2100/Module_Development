@@ -1,0 +1,13 @@
+{
+    "name": "FrontendUser",
+    "alias": "frontenduser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendUser\\Providers\\FrontendUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

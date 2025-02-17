@@ -1,0 +1,13 @@
+{
+    "name": "FrontendBusDriver",
+    "alias": "frontendbusdriver",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendBusDriver\\Providers\\FrontendBusDriverServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "FrontendDispatchs",
+    "alias": "frontenddispatchs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendDispatchs\\Providers\\FrontendDispatchsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

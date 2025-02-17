@@ -1,0 +1,29 @@
+{
+    "name": "nwidart/frontendcars",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\FrontendCars\\": ""
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "https://github.com/celeron2100/Module_Development/FrontendBusDriver"
+        }
+    ]
+}
