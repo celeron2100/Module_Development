@@ -2,27 +2,27 @@
     "repositories": [
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendUser"
+            "url": "../celeron2100/Module_Development/FrontendUser"
         },
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendReserves"
+            "url": "../celeron2100/Module_Development/FrontendReserves"
         },
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendExportPDF"
+            "url": "../celeron2100/Module_Development/FrontendExportPDF"
         },
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendDispatchs"
+            "url": "../celeron2100/Module_Development/FrontendDispatchs"
         },
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendCars"
+            "url": "../celeron2100/Module_Development/FrontendCars"
         },
         {
             "type": "path",
-            "url": "../celeron2100/Modules/FrontendBusDriver"
+            "url": "../celeron2100/Module_Development/FrontendBusDriver"
         }
     ]
 }
