@@ -1,6 +1,7 @@
 {
     "name": "celeron2100/frontendreserves",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Justin C.",

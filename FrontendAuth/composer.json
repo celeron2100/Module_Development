@@ -1,6 +1,7 @@
 {
     "name": "celeron2100/frontendauth",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Justin C.",

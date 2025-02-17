@@ -1,8 +1,7 @@
 {
     "name": "celeron2100/frontenddispatchs",
     "description": "",
-    "type": "library",
-    "version": "dev",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Justin C.",

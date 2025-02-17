@@ -5,17 +5,5 @@
     "require": {},
     "autoload": {
         "psr-4": {}
-    },
-    "extra": {
-        "laravel": {
-            "modules-path": [
-                "FrontendDispatchs",                              
-                "FrontendUser",
-                "FrontendReserves",
-                "FrontendExportPDF",
-                "FrontendCars",
-                "FrontendBusDriver"
-            ]
-        }
     }
 }
