@@ -2,6 +2,7 @@
     "name": "celeron2100/frontenddispatchs",
     "description": "",
     "type": "library",
+    "version": "dev",
     "authors": [
         {
             "name": "Justin C.",
