@@ -1,56 +1,22 @@
 {
-    "name": "celeron2100/module-development",
-    "repositories": [
-        {
-            "packagist.org": false
-        },
-        {
-            "name": "celeron2100/frontenddispatchs",
-            "type": "path",
-            "url": "../Module_Development/FrontendDispatchs",
-            "options": {
-                "symlink": true
-            }
-        },
-        {
-            "name": "celeron2100/frontenduser",
-            "type": "path",
-            "url": "../Module_Development/FrontendUser",
-            "options": {
-                "symlink": true
-            }
-        },
-        {
-            "name": "celeron2100/frontendreserves",
-            "type": "path",
-            "url": "../Module_Development/FrontendReserves",
-            "options": {
-                "symlink": true
-            }
-        },
-        {
-            "name": "celeron2100/frontendexportpdf",
-            "type": "path",
-            "url": "../Module_Development/FrontendExportPDF",
-            "options": {
-                "symlink": true
-            }
-        },
-        {
-            "name": "celeron2100/frontendcars",
-            "type": "path",
-            "url": "../Module_Development/FrontendCars",
-            "options": {
-                "symlink": true
-            }
-        },
-        {
-            "name": "celeron2100/frontendbusdriver",
-            "type": "path",
-            "url": "../Module_Development/FrontendBusDriver",
-            "options": {
-                "symlink": true
-            }
+    "name": "celeron2100/laravel-modules",               
+    "description": "Laravel 模組集合的 monorepo",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {}
+    },
+    "extra": {
+        "laravel": {
+            "modules-path": [
+                "FrontendDispatchs",                              
+                "FrontendUser",
+                "FrontendReserves",
+                "FrontendExportPDF",
+                "FrontendCars",
+                "FrontendBusDriver"
+
+            ]
         }
-    ]
+    }
 }
