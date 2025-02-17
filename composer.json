@@ -1,11 +1,14 @@
 {
     "repositories": [
         {
-            "name": "celeron2100/frontenddispatchs",
-            "type": "path",                              
-            "url": "../Module_Development/FrontendDispatchs",   
+            "packagist.org": false                            
+        },
+        {
+            "name": "celeron2100/frontenddispatchs",          
+            "type": "path",                                   
+            "url": "../Module_Development/FrontendDispatchs", 
             "options": {
-                "symlink": true                          
+                "symlink": true                              
             }
         },
         {
