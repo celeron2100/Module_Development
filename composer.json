@@ -1,6 +1,7 @@
 {
     "repositories": [
         {
+            "name": "celeron2100/frontenddispatchs",
             "type": "path",                              
             "url": "../Module_Development/FrontendDispatchs",   
             "options": {
@@ -8,6 +9,7 @@
             }
         },
         {
+            "name": "celeron2100/frontenduser",
             "type": "path",
             "url": "../Module_Development/FrontendUser",
             "options": {
@@ -15,6 +17,7 @@
             }
         },
         {
+            "name": "celeron2100/frontendreserves",
             "type": "path",
             "url": "../Module_Development/FrontendReserves",
             "options": {
@@ -22,6 +25,7 @@
             }
         },
         {
+            "name": "celeron2100/frontendexportpdf",
             "type": "path",
             "url": "../Module_Development/FrontendExportPDF",
             "options": {
@@ -29,6 +33,7 @@
             }
         },
         {
+            "name": "celeron2100/frontendcars",
             "type": "path",
             "url": "../Module_Development/FrontendCars",
             "options": {
@@ -36,6 +41,7 @@
             }
         },
         {
+            "name": "celeron2100/frontendbusdriver",
             "type": "path",
             "url": "../Module_Development/FrontendBusDriver",
             "options": {
