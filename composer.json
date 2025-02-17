@@ -1,28 +1,107 @@
 {
     "repositories": [
         {
-            "type": "path",
-            "url": "../FrontendDispatchs"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontenddispatchs",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendDispatchs\\": "FrontendDispatchs/"
+                    }
+                }
+            }
         },
         {
-            "type": "path",
-            "url": "../FrontendUser"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontenduser",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendUser\\": "FrontendUser/"
+                    }
+                }
+            }
         },
         {
-            "type": "path",
-            "url": "../FrontendReserves"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontendreserves",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendReserves\\": "FrontendReserves/"
+                    }
+                }
+            }
         },
         {
-            "type": "path",
-            "url": "../FrontendExportPDF"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontendexportpdf",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendExportPDF\\": "FrontendExportPDF/"
+                    }
+                }
+            }
         },
         {
-            "type": "path",
-            "url": "../FrontendCars"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontendcars",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendCars\\": "FrontendCars/"
+                    }
+                }
+            }
         },
         {
-            "type": "path",
-            "url": "../FrontendBusDriver"
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontendbusdriver",
+                "version": "dev-main",
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git",
+                    "type": "git",
+                    "reference": "main"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendBusDriver\\": "FrontendBusDriver/"
+                    }
+                }
+            }
         }
     ]
 }
+
