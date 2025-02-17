@@ -3,105 +3,134 @@
         {
             "type": "package",
             "package": {
-                "name": "celeron2100/frontenddispatchs",
+                "name": "celeron2100/frontenddispatchs",                     
+                "version": "dev-main",                                        
+                "source": {
+                    "url": "https://github.com/celeron2100/Module_Development.git", 
+                    "type": "git",                                            
+                    "reference": "main"                                       
+                },
+                "dist": {
+                    "type": "zip",                                             
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main" 
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FrontendDispatchs\\": "FrontendDispatchs/"           
+                    }
+                },
+                "target-dir": "FrontendDispatchs"                              
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "celeron2100/frontenduser",                          
                 "version": "dev-main",
                 "source": {
                     "url": "https://github.com/celeron2100/Module_Development.git",
                     "type": "git",
                     "reference": "main"
                 },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendDispatchs\\": "FrontendDispatchs/"
-                    }
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontenduser",
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
                 },
                 "autoload": {
                     "psr-4": {
                         "FrontendUser\\": "FrontendUser/"
                     }
-                }
+                },
+                "target-dir": "FrontendUser"
             }
         },
         {
             "type": "package",
             "package": {
-                "name": "celeron2100/frontendreserves",
+                "name": "celeron2100/frontendreserves",                       
                 "version": "dev-main",
                 "source": {
                     "url": "https://github.com/celeron2100/Module_Development.git",
                     "type": "git",
                     "reference": "main"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
                 },
                 "autoload": {
                     "psr-4": {
                         "FrontendReserves\\": "FrontendReserves/"
                     }
-                }
+                },
+                "target-dir": "FrontendReserves"
             }
         },
         {
             "type": "package",
             "package": {
-                "name": "celeron2100/frontendexportpdf",
+                "name": "celeron2100/frontendexportpdf",                       
                 "version": "dev-main",
                 "source": {
                     "url": "https://github.com/celeron2100/Module_Development.git",
                     "type": "git",
                     "reference": "main"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
                 },
                 "autoload": {
                     "psr-4": {
                         "FrontendExportPDF\\": "FrontendExportPDF/"
                     }
-                }
+                },
+                "target-dir": "FrontendExportPDF"
             }
         },
         {
             "type": "package",
             "package": {
-                "name": "celeron2100/frontendcars",
+                "name": "celeron2100/frontendcars",                            
                 "version": "dev-main",
                 "source": {
                     "url": "https://github.com/celeron2100/Module_Development.git",
                     "type": "git",
                     "reference": "main"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
                 },
                 "autoload": {
                     "psr-4": {
                         "FrontendCars\\": "FrontendCars/"
                     }
-                }
+                },
+                "target-dir": "FrontendCars"
             }
         },
         {
             "type": "package",
             "package": {
-                "name": "celeron2100/frontendbusdriver",
+                "name": "celeron2100/frontendbusdriver",                      
                 "version": "dev-main",
                 "source": {
                     "url": "https://github.com/celeron2100/Module_Development.git",
                     "type": "git",
                     "reference": "main"
                 },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
+                },
                 "autoload": {
                     "psr-4": {
                         "FrontendBusDriver\\": "FrontendBusDriver/"
                     }
-                }
+                },
+                "target-dir": "FrontendBusDriver"
             }
         }
     ]
 }
-
