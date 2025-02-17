@@ -1,135 +1,45 @@
 {
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontenddispatchs",                     
-                "version": "dev-main",                                        
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git", 
-                    "type": "git",                                            
-                    "reference": "main"                                       
-                },
-                "dist": {
-                    "type": "zip",                                             
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main" 
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendDispatchs\\": "FrontendDispatchs/"           
-                    }
-                },
-                "target-dir": "FrontendDispatchs"                              
+            "type": "path",                              
+            "url": "../Module_Development/FrontendDispatchs",   
+            "options": {
+                "symlink": true                          
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontenduser",                          
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendUser\\": "FrontendUser/"
-                    }
-                },
-                "target-dir": "FrontendUser"
+            "type": "path",
+            "url": "../Module_Development/FrontendUser",
+            "options": {
+                "symlink": true
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontendreserves",                       
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendReserves\\": "FrontendReserves/"
-                    }
-                },
-                "target-dir": "FrontendReserves"
+            "type": "path",
+            "url": "../Module_Development/FrontendReserves",
+            "options": {
+                "symlink": true
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontendexportpdf",                       
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendExportPDF\\": "FrontendExportPDF/"
-                    }
-                },
-                "target-dir": "FrontendExportPDF"
+            "type": "path",
+            "url": "../Module_Development/FrontendExportPDF",
+            "options": {
+                "symlink": true
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontendcars",                            
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendCars\\": "FrontendCars/"
-                    }
-                },
-                "target-dir": "FrontendCars"
+            "type": "path",
+            "url": "../Module_Development/FrontendCars",
+            "options": {
+                "symlink": true
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "celeron2100/frontendbusdriver",                      
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/celeron2100/Module_Development.git",
-                    "type": "git",
-                    "reference": "main"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/celeron2100/Module_Development/zipball/main"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "FrontendBusDriver\\": "FrontendBusDriver/"
-                    }
-                },
-                "target-dir": "FrontendBusDriver"
+            "type": "path",
+            "url": "../Module_Development/FrontendBusDriver",
+            "options": {
+                "symlink": true
             }
         }
     ]
