@@ -2,27 +2,27 @@
     "repositories": [
         {
             "type": "path",
-            "url": "../Module_Development/FrontendDispatchs"
+            "url": "../FrontendDispatchs"
         },
         {
             "type": "path",
-            "url": "../Module_Development/FrontendUser"
+            "url": "../FrontendUser"
         },
         {
             "type": "path",
-            "url": "../Module_Development/FrontendReserves"
+            "url": "../FrontendReserves"
         },
         {
             "type": "path",
-            "url": "../Module_Development/FrontendExportPDF"
+            "url": "../FrontendExportPDF"
         },
         {
             "type": "path",
-            "url": "../Module_Development/FrontendCars"
+            "url": "../FrontendCars"
         },
         {
             "type": "path",
-            "url": "../Module_Development/FrontendBusDriver"
+            "url": "../FrontendBusDriver"
         }
     ]
 }
