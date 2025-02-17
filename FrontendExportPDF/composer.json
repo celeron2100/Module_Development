@@ -1,5 +1,5 @@
 {
-    "name": "nwidart/frontendexportpdf",
+    "name": "celeron2100/frontendexportpdf",
     "description": "",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\FrontendExportPDF\\": ""
+            "Module_Development\\FrontendExportPDF\\": ""
         }
     }
 }

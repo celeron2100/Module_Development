@@ -1,5 +1,5 @@
 {
-    "name": "nwidart/frontendcars",
+    "name": "celeron2100/frontendcars",
     "description": "",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\FrontendCars\\": ""
+            "Module_Development\\FrontendCars\\": ""
         }
     },
     "repositories": [

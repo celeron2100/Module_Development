@@ -1,5 +1,5 @@
 {
-    "name": "nwidart/frontenduser",
+    "name": "celeron2100/frontenduser",
     "description": "",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\FrontendUser\\": ""
+            "Module_Development\\FrontendUser\\": ""
         }
     }
 }

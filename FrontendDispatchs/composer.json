@@ -1,5 +1,5 @@
 {
-    "name": "nwidart/frontenddispatchs",
+    "name": "celeron2100/frontenddispatchs",
     "description": "",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\FrontendDispatchs\\": ""
+            "Module_Development\\FrontendDispatchs\\": ""
         }
     },
     "repositories": [
